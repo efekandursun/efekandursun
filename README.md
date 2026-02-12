@@ -6,7 +6,7 @@ I am a 3rd-year Computer Engineering student based in Turkiye/Eskişehir, focuse
 ---
 
 ### What I’m Currently Working On
-**[FieldFlow AI](https://github.com/efekandursun/fieldflow-ai)
+[FieldFlow AI](https://github.com/efekandursun/fieldflow-ai)
 * **The Problem:** Communication gaps and reporting friction in the US construction industry.
 * **The Solution:** A voice-to-data pipeline that converts Spanish/English field notes into structured Procore logs using **GPT-4o** and **Whisper**.
 * **Status:** Active development, integration, early testing.
@@ -23,8 +23,8 @@ I am a 3rd-year Computer Engineering student based in Turkiye/Eskişehir, focuse
 ---
 
 ### Professional Experience
-* **Infrew:** Co-Founder & Lead Developer (SaaS Startup) - 
-* **Maenso Engineering:** Developed a full-stack Sales Management System using Python, Flask, and Docker.
+* **Infrew:** Co-Founder & Software Developer (SaaS Startup) 
+* [Sales Managment System for Maenso](https://github.com/AtaOzkan/VTYS_PROJE) - Developed a full-stack Sales Management System using Python, Flask, and Docker.
   
 ---
 
