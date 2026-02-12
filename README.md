@@ -1,7 +1,7 @@
 # Hi, I'm Efekan! 
 
 ### Computer Engineering Student & Entrepreneur
-I am a 3rd-year Computer Engineering student based in Turkey, focused on building **AI-powered SaaS solutions** that solve real-world industrial problems. Currently, I am the co-founder of **FieldFlow AI**, where we bridge the gap between field operations and digital management.
+I am a 3rd-year Computer Engineering student based in Turkiye/Eskişehir, focused on building **AI-powered SaaS solutions** that solve real-world industrial problems. Currently, I am the co-founder of **FieldFlow AI**, where we bridge the gap between field operations and digital management.
 
 ---
 
